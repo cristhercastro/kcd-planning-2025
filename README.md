@@ -5,9 +5,10 @@ KCD Costa Rica 2025 Planning
 
 | Name          | Email    | github  |
 | ------------- | ------------- |----------- |
-| Gerardo Lopez | gelopfalcon@gmail.com  | falconcr |
+| Gerardo Lopez | gelopfalcon@gmail.com  | @falconcr |
 
 # Committees
+ [Roles and responsibilities](https://github.com/cloudnativecostarica/committees)
 
 # Meeting Notes
 
