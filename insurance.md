@@ -1,6 +1,6 @@
 # Insurance
 
-1. We got the quotation for the first CNCF Insurance proposal but the covergae of the Insurance was to high (1 million of USD), and of course the Insurance premium in LATAM for that coverage is high too, around $13,000 USD.
+1. We got the quotation for the first CNCF Insurance proposal but the covergae of the Insurance was to high (1 million of USD), and of course the Insurance premium in LATAM for that coverage is high too, around $13,000 USD. [Insurance premiun and coverage](https://github.com/cloudnativecostarica/kcd-planning-2025/blob/main/INSSJ-09329-2024.pdf)
 
 2. After conversations with Audra we got the number of 1 million of colones for the Insurance coverage, but a million of colones is just $2000 USD, to low now.
 
