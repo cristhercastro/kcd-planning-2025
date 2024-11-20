@@ -18,6 +18,6 @@ The liability insurance quotation with coverage of $200,000 USD is available her
 The Insurance premiun is: $2450.47 USD
 
 Sponsors:
-Lis of potential sponsors [here](https://github.com/cloudnativecostarica/kcd-planning-2025/blob/main/sponsors_list)
+Lis of potential sponsors [here](https://github.com/cloudnativecostarica/kcd-planning-2025/blob/main/sponsors_list.md)
 
 # Social Media
